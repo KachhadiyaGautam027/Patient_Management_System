@@ -6,7 +6,7 @@ import { useNavigate } from "react-router-dom";
 const appointments = [
   {
     id: 1,
-    patientName: "John Doe",
+    patientName: "Patient-1",
     patientIssue: "Fever",
     doctorName: "Dr. Marcus Philips",
     diseaseName: "Influenza",
@@ -22,7 +22,7 @@ const appointments = [
   },
   {
     id: 2,
-    patientName: "Jane Smith",
+    patientName: "Patient-2",
     patientIssue: "Toothache",
     doctorName: "Dr. Hayle Schleifer",
     diseaseName: "Dental Infection",
